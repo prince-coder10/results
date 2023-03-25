@@ -6,7 +6,17 @@
 }
 
 @font-face {
+  font-family: Hanken Grotesk;
+  src: url(./assets/fonts/static/HankenGrotesk-Medium.ttf);
+  font-weight: 400;
 }
+
+@font-face {
+  font-family: Hanken Grotesk;
+  src: url(./assets/fonts/static/HankenGrotesk-ExtraBold.ttf);
+  font-weight: bolder;
+}
+
 
 * {
   padding: 0;
